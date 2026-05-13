@@ -1,0 +1,15 @@
+{
+	"name": "LearnADFv11",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33bb2d42-8229-400c-a471-66c90d33a768",
+		"tenantId": "beb3934a-366c-4d7d-bd07-f9a844a7d254"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "AzureBlobStorage1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"containerUri": "https://bloblearnazure.blob.core.windows.net/learnazure",
+			"authenticationType": "Anonymous"
+		}
+	}
+}
